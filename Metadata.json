@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation": "BAMA",
-          "prestige": "95",
+          "prestige": "96",
           "hexColor" : "#B20838",
           "rival": "AUB",
           "headCoach" : {
@@ -76,7 +76,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "73",
+          "prestige" : "78",
           "hexColor" : "#FF8200",
           "rival" : "TAMU",
           "headCoach" : {
@@ -124,7 +124,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "78",
+          "prestige" : "76",
           "hexColor" : "#14213D",
           "rival" : "MSST",
           "headCoach" : {
@@ -148,7 +148,7 @@
         },
         {
           "abbreviation" : "SC",
-          "prestige" : "75",
+          "prestige" : "79",
           "hexColor" : "#710B29",
           "rival" : "LSU",
           "headCoach" : {
@@ -251,7 +251,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UM",
-          "prestige" : "85",
+          "prestige" : "89",
           "hexColor" : "#00274C",
           "rival" : "MSU",
           "headCoach" : {
@@ -275,7 +275,7 @@
         },
         {
           "abbreviation" : "MSU",
-          "prestige" : "78",
+          "prestige" : "82",
           "hexColor" : "#18453B",
           "rival" : "UM",
           "headCoach" : {
@@ -323,7 +323,7 @@
         },
         {
           "abbreviation" : "PSU",
-          "prestige" : "84",
+          "prestige" : "83",
           "hexColor" : "#001E44",
           "rival" : "OSU",
           "headCoach" : {
@@ -371,7 +371,7 @@
         },
         {
           "abbreviation" : "WIS",
-          "prestige" : "82",
+          "prestige" : "86",
           "hexColor" : "#C5050C",
           "rival" : "MINN",
           "headCoach" : {
@@ -395,7 +395,7 @@
         },
         {
           "abbreviation" : "IOWA",
-          "prestige" : "80",
+          "prestige" : "81",
           "hexColor" : "#000000",
           "rival" : "NEB",
           "headCoach" : {
@@ -419,7 +419,7 @@
         },
         {
           "abbreviation" : "NEB",
-          "prestige" : "75",
+          "prestige" : "78",
           "hexColor" : "#D00000",
           "rival" : "IOWA",
           "headCoach" : {
@@ -443,7 +443,7 @@
         },
         {
           "abbreviation" : "IND",
-          "prestige" : "71",
+          "prestige" : "73",
           "hexColor" : "#CFB991",
           "rival" : "NW",
           "headCoach" : {
@@ -467,7 +467,7 @@
         },
         {
           "abbreviation" : "NW",
-          "prestige" : "73",
+          "prestige" : "76",
           "hexColor" : "#4E2A84",
           "rival" : "IND",
           "headCoach" : {
@@ -522,7 +522,7 @@
         },
         {
           "abbreviation" : "OU",
-          "prestige" : "91",
+          "prestige" : "93",
           "hexColor" : "#841617",
           "rival" : "UT",
           "headCoach" : {
@@ -546,7 +546,7 @@
         },
         {
           "abbreviation" : "WVU",
-          "prestige" : "73",
+          "prestige" : "78",
           "hexColor" : "#EAAA00",
           "rival" : "OKST",
           "headCoach" : {
@@ -594,7 +594,7 @@
         },
         {
           "abbreviation" : "BAYL",
-          "prestige" : "75",
+          "prestige" : "79",
           "hexColor" : "#154734",
           "rival" : "TCU",
           "headCoach" : {
@@ -618,7 +618,7 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "78",
+          "prestige" : "75",
           "hexColor" : "#C8102E",
           "rival" : "TTEC",
           "headCoach" : {
@@ -666,7 +666,7 @@
         },
         {
           "abbreviation" : "OKSU",
-          "prestige" : "77",
+          "prestige" : "82",
           "hexColor" : "#FE5C00",
           "rival" : "WVU",
           "headCoach" : {
@@ -745,7 +745,7 @@
       "confTeams" : [
         {
           "abbreviation" : "CAL",
-          "prestige" : "74",
+          "prestige" : "77",
           "hexColor" : "#003262",
           "rival" : "STAN",
           "headCoach" : {
@@ -769,7 +769,7 @@
         },
         {
           "abbreviation" : "COLO",
-          "prestige" : "77",
+          "prestige" : "76",
           "hexColor" : "#000000",
           "rival" : "UW",
           "headCoach" : {
@@ -817,7 +817,7 @@
         },
         {
           "abbreviation" : "UCLA",
-          "prestige" : "75",
+          "prestige" : "78",
           "hexColor" : "#2774AE",
           "rival" : "USC",
           "headCoach" : {
@@ -913,7 +913,7 @@
         },
         {
           "abbreviation" : "ORST",
-          "prestige" : "72",
+          "prestige" : "71",
           "hexColor" : "#D73F09",
           "rival" : "ORE",
           "headCoach" : {
@@ -961,7 +961,7 @@
         },
         {
           "abbreviation" : "ASU",
-          "prestige" : "75",
+          "prestige" : "78",
           "hexColor" : "#8C1D40",
           "rival" : "UTAH",
           "headCoach" : {
@@ -992,7 +992,7 @@
       "confTeams" : [
         {
           "abbreviation" : "CLEM",
-          "prestige" : "93",
+          "prestige" : "94",
           "hexColor" : "#F66733",
           "rival" : "UNC",
           "headCoach" : {
@@ -1040,7 +1040,7 @@
         },
         {
           "abbreviation" : "VT",
-          "prestige" : "76",
+          "prestige" : "78",
           "hexColor" : "#861F41",
           "rival" : "UVA",
           "headCoach" : {
@@ -1088,7 +1088,7 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "82",
+          "prestige" : "88",
           "hexColor" : "#782F40",
           "rival" : "MIA",
           "headCoach" : {
@@ -1239,7 +1239,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "78",
+          "prestige" : "80",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "headCoach" : {
@@ -1383,7 +1383,7 @@
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "69",
+          "prestige" : "75",
           "hexColor" : "#C8102E",
           "rival" : "SMU",
           "headCoach" : {
@@ -1486,7 +1486,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BSU",
-          "prestige" : "78",
+          "prestige" : "81",
           "hexColor" : "#0033A0",
           "rival" : "FRES",
           "headCoach" : {
@@ -1558,7 +1558,7 @@
         },
         {
           "abbreviation" : "USU",
-          "prestige" : "54",
+          "prestige" : "68",
           "hexColor" : "#00263A",
           "rival" : "BYU",
           "headCoach" : {
@@ -1630,7 +1630,7 @@
         },
         {
           "abbreviation" : "SDSU",
-          "prestige" : "60",
+          "prestige" : "64",
           "hexColor" : "#A6192E",
           "rival" : "JOSE",
           "headCoach" : {
@@ -1654,7 +1654,7 @@
         },
         {
           "abbreviation" : "JOSE",
-          "prestige" : "58",
+          "prestige" : "66",
           "hexColor" : "#0055A2",
           "rival" : "SDSU",
           "headCoach" : {
@@ -2721,7 +2721,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UA",
-          "prestige" : "60",
+          "prestige" : "62",
           "hexColor" : "#46166B",
           "rival" : "STON",
           "headCoach" : {
@@ -2889,7 +2889,7 @@
         },
         {
           "abbreviation" : "WM",
-          "prestige" : "58",
+          "prestige" : "60",
           "hexColor" : "#115740",
           "rival" : "JMU",
           "headCoach" : {
