@@ -1088,7 +1088,7 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "79",
+          "prestige" : "82",
           "hexColor" : "#782F40",
           "rival" : "MIA",
           "headCoach" : {
@@ -1112,7 +1112,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "84",
+          "prestige" : "85",
           "hexColor" : "#005030",
           "rival" : "FSU",
           "headCoach" : {
@@ -1239,7 +1239,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "75",
+          "prestige" : "78",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "headCoach" : {
@@ -1311,7 +1311,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "74",
+          "prestige" : "75",
           "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
@@ -1359,7 +1359,7 @@
         },
         {
           "abbreviation" : "TEM",
-          "prestige" : "64",
+          "prestige" : "61",
           "hexColor" : "#9E1B34",
           "rival" : "CONN",
           "headCoach" : {
@@ -1455,7 +1455,7 @@
         },
         {
           "abbreviation" : "TLS",
-          "prestige" : "73",
+          "prestige" : "74",
           "hexColor" : "#003366",
           "rival" : "TUL",
           "headCoach" : {
@@ -1510,7 +1510,7 @@
         },
         {
           "abbreviation" : "FRES",
-          "prestige" : "61",
+          "prestige" : "64",
           "hexColor" : "#C41230",
           "rival" : "BSU",
           "headCoach" : {
@@ -1582,7 +1582,7 @@
         },
         {
           "abbreviation" : "WYO",
-          "prestige" : "60",
+          "prestige" : "63",
           "hexColor" : "#492F24",
           "rival" : "CSU",
           "headCoach" : {
@@ -1853,7 +1853,7 @@
         },
         {
           "abbreviation" : "UL",
-          "prestige" : "67",
+          "prestige" : "69",
           "hexColor" : "#A00B0B",
           "rival" : "AKSU",
           "headCoach" : {
@@ -1980,7 +1980,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UAB",
-          "prestige" : "65",
+          "prestige" : "68",
           "hexColor" : "#1E6B52",
           "rival" : "MTSU",
           "headCoach" : {
@@ -2196,7 +2196,7 @@
         },
         {
           "abbreviation" : "LAT",
-          "prestige" : "62",
+          "prestige" : "65",
           "hexColor" : "#003087",
           "rival" : "WKU",
           "headCoach" : {
@@ -2251,7 +2251,7 @@
         },
         {
           "abbreviation" : "NIU",
-          "prestige" : "62",
+          "prestige" : "64",
           "hexColor" : "#C8102E",
           "rival" : "BALL",
           "headCoach" : {
@@ -2522,7 +2522,7 @@
         },
         {
           "abbreviation" : "UNI",
-          "prestige" : "63",
+          "prestige" : "64",
           "hexColor" : "#4B116F",
           "rival" : "WIU",
           "headCoach" : {
@@ -2541,7 +2541,7 @@
             "name" : "Mike Farley",
             "contractYear" : "0"
           },
-          "name" : "UNI",
+          "name" : "Northern Iowa",
           "state" : "Iowa"
         },
         {
