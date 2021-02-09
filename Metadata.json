@@ -2220,7 +2220,7 @@
         }
       ],
       "confFullName" : "Conference USA",
-      "confPrestige" : "64",
+      "confPrestige" : "68",
       "confName" : "CUSA"
     },
     {
@@ -2467,7 +2467,7 @@
         }
       ],
       "confFullName" : "Mid-American",
-      "confPrestige" : "62",
+      "confPrestige" : "66",
       "confName" : "MAC"
     },
     {
@@ -2714,7 +2714,7 @@
         }
       ],
       "confFullName" : "Missouri Valley",
-      "confPrestige" : "60",
+      "confPrestige" : "62",
       "confName" : "MVFC"
     },
     {
@@ -2961,7 +2961,7 @@
         }
       ],
       "confFullName" : "Colonial Athletic",
-      "confPrestige" : "57",
+      "confPrestige" : "60",
       "confName" : "CAA"
     }
   ],
