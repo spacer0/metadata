@@ -769,7 +769,7 @@
         },
         {
           "abbreviation" : "COLO",
-          "prestige" : "76",
+          "prestige" : "74",
           "hexColor" : "#000000",
           "rival" : "UW",
           "headCoach" : {
@@ -793,7 +793,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "88",
+          "prestige" : "90",
           "hexColor" : "#990000",
           "rival" : "UCLA",
           "headCoach" : {
@@ -1311,7 +1311,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "75",
+          "prestige" : "76",
           "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
@@ -1455,7 +1455,7 @@
         },
         {
           "abbreviation" : "TLS",
-          "prestige" : "74",
+          "prestige" : "73",
           "hexColor" : "#003366",
           "rival" : "TUL",
           "headCoach" : {
@@ -2961,7 +2961,7 @@
         }
       ],
       "confFullName" : "Colonial Athletic",
-      "confPrestige" : "58",
+      "confPrestige" : "60",
       "confName" : "CAA"
     }
   ],
