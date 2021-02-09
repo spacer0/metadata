@@ -1510,7 +1510,7 @@
         },
         {
           "abbreviation" : "FRES",
-          "prestige" : "64",
+          "prestige" : "68",
           "hexColor" : "#C41230",
           "rival" : "BSU",
           "headCoach" : {
@@ -1558,7 +1558,7 @@
         },
         {
           "abbreviation" : "USU",
-          "prestige" : "68",
+          "prestige" : "71",
           "hexColor" : "#00263A",
           "rival" : "BYU",
           "headCoach" : {
@@ -1606,7 +1606,7 @@
         },
         {
           "abbreviation" : "CSU",
-          "prestige" : "62",
+          "prestige" : "61",
           "hexColor" : "#1E4D2B",
           "rival" : "WYO",
           "headCoach" : {
@@ -1630,7 +1630,7 @@
         },
         {
           "abbreviation" : "SDSU",
-          "prestige" : "64",
+          "prestige" : "66",
           "hexColor" : "#A6192E",
           "rival" : "JOSE",
           "headCoach" : {
@@ -1654,7 +1654,7 @@
         },
         {
           "abbreviation" : "JOSE",
-          "prestige" : "66",
+          "prestige" : "69",
           "hexColor" : "#0055A2",
           "rival" : "SDSU",
           "headCoach" : {
@@ -2028,7 +2028,7 @@
         },
         {
           "abbreviation" : "FAU",
-          "prestige" : "60",
+          "prestige" : "62",
           "hexColor" : "#CC0000",
           "rival" : "FIU",
           "headCoach" : {
@@ -2052,7 +2052,7 @@
         },
         {
           "abbreviation" : "FIU",
-          "prestige" : "50",
+          "prestige" : "53",
           "hexColor" : "#081E3F",
           "rival" : "FAU",
           "headCoach" : {
@@ -2172,7 +2172,7 @@
         },
         {
           "abbreviation" : "WKU",
-          "prestige" : "57",
+          "prestige" : "60",
           "hexColor" : "#B01E24",
           "rival" : "LAT",
           "headCoach" : {
@@ -2522,7 +2522,7 @@
         },
         {
           "abbreviation" : "UNI",
-          "prestige" : "64",
+          "prestige" : "65",
           "hexColor" : "#4B116F",
           "rival" : "WIU",
           "headCoach" : {
@@ -2594,7 +2594,7 @@
         },
         {
           "abbreviation" : "ILST",
-          "prestige" : "60",
+          "prestige" : "61",
           "hexColor" : "#CE1126",
           "rival" : "USD",
           "headCoach" : {
