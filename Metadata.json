@@ -244,7 +244,7 @@
         }
       ],
       "confFullName" : "Southeastern Conference",
-      "confPrestige" : "95",
+      "confPrestige" : "96",
       "confName" : "SEC"
     },
     {
@@ -1335,7 +1335,7 @@
         },
         {
           "abbreviation" : "CONN",
-          "prestige" : "60",
+          "prestige" : "58",
           "hexColor" : "#000E2F",
           "rival" : "TEM",
           "headCoach" : {
@@ -1606,7 +1606,7 @@
         },
         {
           "abbreviation" : "CSU",
-          "prestige" : "56",
+          "prestige" : "62",
           "hexColor" : "#1E4D2B",
           "rival" : "WYO",
           "headCoach" : {
@@ -1726,7 +1726,7 @@
         }
       ],
       "confFullName" : "Mountain West Conference",
-      "confPrestige" : "73",
+      "confPrestige" : "78",
       "confName" : "MWC"
     },
     {
@@ -1973,7 +1973,7 @@
         }
       ],
       "confFullName" : "Sun Belt",
-      "confPrestige" : "66",
+      "confPrestige" : "70",
       "confName" : "SUN"
     },
     {
@@ -2220,7 +2220,7 @@
         }
       ],
       "confFullName" : "Conference USA",
-      "confPrestige" : "60",
+      "confPrestige" : "64",
       "confName" : "CUSA"
     },
     {
@@ -2253,7 +2253,7 @@
           "abbreviation" : "NIU",
           "prestige" : "64",
           "hexColor" : "#C8102E",
-          "rival" : "BALL",
+          "rival" : "WMU",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2347,9 +2347,9 @@
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "60",
+          "prestige" : "64",
           "hexColor" : "#003E7E",
-          "rival" : "BOWL",
+          "rival" : "CMU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2370,32 +2370,32 @@
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "BALL",
-          "prestige" : "60",
-          "hexColor" : "#BAOC2F",
+          "abbreviation" : "WMU",
+          "prestige" : "65",
+          "hexColor" : "#6C4023",
           "rival" : "NIU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "2",
             "startYear" : "2020",
-            "age" : "49",
-            "ratOff" : "60",
+            "age" : "44",
+            "ratOff" : "62",
             "cumulativePrestige" : "0",
             "ratDef" : "51",
-            "homeState" : "Indiana",
+            "homeState" : "Illinois",
             "ratPot" : "62",
             "ratTalent" : "55",
             "baselinePrestige" : "37",
             "ratDiscipline" : "69",
-            "ratOvr" : "62",
-            "name" : "Mike Neu",
+            "ratOvr" : "64",
+            "name" : "Tim Lester",
             "contractYear" : "0"
           },
-          "name" : "Ball State",
-          "state" : "Indiana"
+          "name" : "Western Michigan",
+          "state" : "Michigan"
         },
         {
           "abbreviation" : "AKR",
-          "prestige" : "59",
+          "prestige" : "56",
           "hexColor" : "#041E42",
           "rival" : "KENT",
           "headCoach" : {
@@ -2418,32 +2418,32 @@
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "BOWL",
-          "prestige" : "56",
-          "hexColor" : "#FF7300",
+          "abbreviation" : "CMU",
+          "prestige" : "64",
+          "hexColor" : "#F8F9FA",
           "rival" : "TOL",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
-            "age" : "45",
-            "ratOff" : "53",
+            "age" : "58",
+            "ratOff" : "68",
             "cumulativePrestige" : "0",
-            "ratDef" : "50",
-            "homeState" : "Ohio",
+            "ratDef" : "58",
+            "homeState" : "Montana",
             "ratPot" : "62",
             "ratTalent" : "59",
             "baselinePrestige" : "35",
             "ratDiscipline" : "83",
             "ratOvr" : "70",
-            "name" : "Scott Loeffler",
+            "name" : "Jim McElwain",
             "contractYear" : "0"
           },
-          "name" : "Bowling Green",
-          "state" : "Ohio"
+          "name" : "Central Michigan",
+          "state" : "Michigan"
         },
         {
           "abbreviation" : "KENT",
-          "prestige" : "63",
+          "prestige" : "62",
           "hexColor" : "#0E1112",
           "rival" : "AKR",
           "headCoach" : {
@@ -2467,7 +2467,7 @@
         }
       ],
       "confFullName" : "Mid-American",
-      "confPrestige" : "63",
+      "confPrestige" : "62",
       "confName" : "MAC"
     },
     {
@@ -2961,7 +2961,7 @@
         }
       ],
       "confFullName" : "Colonial Athletic",
-      "confPrestige" : "56",
+      "confPrestige" : "58",
       "confName" : "CAA"
     }
   ],
