@@ -2323,7 +2323,7 @@
         },
         {
           "abbreviation" : "EMI",
-          "prestige" : "55",
+          "prestige" : "60",
           "hexColor" : "#046A38",
           "rival" : "BUF",
           "headCoach" : {
@@ -2347,7 +2347,7 @@
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "64",
+          "prestige" : "58",
           "hexColor" : "#003E7E",
           "rival" : "CMU",
           "headCoach" : {
@@ -2443,7 +2443,7 @@
         },
         {
           "abbreviation" : "KENT",
-          "prestige" : "62",
+          "prestige" : "60",
           "hexColor" : "#0E1112",
           "rival" : "AKR",
           "headCoach" : {
