@@ -28,7 +28,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "87",
+          "prestige" : "91",
           "hexColor" : "#BA0C2F",
           "rival" : "UF",
           "headCoach" : {
@@ -52,7 +52,7 @@
         },
         {
           "abbreviation" : "UF",
-          "prestige" : "86",
+          "prestige" : "90",
           "hexColor" : "#0021A5",
           "rival" : "UGA",
           "headCoach" : {
@@ -148,7 +148,7 @@
         },
         {
           "abbreviation" : "SC",
-          "prestige" : "79",
+          "prestige" : "80",
           "hexColor" : "#710B29",
           "rival" : "LSU",
           "headCoach" : {
@@ -196,7 +196,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "84",
+          "prestige" : "90",
           "hexColor" : "#03244D",
           "rival" : "BAMA",
           "headCoach" : {
@@ -251,7 +251,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UM",
-          "prestige" : "89",
+          "prestige" : "90",
           "hexColor" : "#00274C",
           "rival" : "MSU",
           "headCoach" : {
@@ -498,7 +498,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UT",
-          "prestige" : "87",
+          "prestige" : "90",
           "hexColor" : "#BF5700",
           "rival" : "OU",
           "headCoach" : {
@@ -570,7 +570,7 @@
         },
         {
           "abbreviation" : "TCU",
-          "prestige" : "82",
+          "prestige" : "81",
           "hexColor" : "#4D1979",
           "rival" : "BAYL",
           "headCoach" : {
@@ -618,7 +618,7 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "75",
+          "prestige" : "72",
           "hexColor" : "#C8102E",
           "rival" : "TTEC",
           "headCoach" : {
@@ -690,7 +690,7 @@
         },
         {
           "abbreviation" : "KSU",
-          "prestige" : "70",
+          "prestige" : "73",
           "hexColor" : "#512888",
           "rival" : "KS",
           "headCoach" : {
@@ -714,7 +714,7 @@
         },
         {
           "abbreviation" : "KS",
-          "prestige" : "67",
+          "prestige" : "70",
           "hexColor" : "#0051BA",
           "rival" : "KSU",
           "headCoach" : {
@@ -1016,7 +1016,7 @@
         },
         {
           "abbreviation" : "PITT",
-          "prestige" : "74",
+          "prestige" : "78",
           "hexColor" : "#003594",
           "rival" : "CUSE",
           "headCoach" : {
@@ -1359,7 +1359,7 @@
         },
         {
           "abbreviation" : "TEM",
-          "prestige" : "61",
+          "prestige" : "66",
           "hexColor" : "#9E1B34",
           "rival" : "CONN",
           "headCoach" : {
@@ -1702,7 +1702,7 @@
         },
         {
           "abbreviation" : "USAF",
-          "prestige" : "66",
+          "prestige" : "64",
           "hexColor" : "#004F98",
           "rival" : "HI",
           "headCoach" : {
@@ -2836,7 +2836,7 @@
             "name" : "Danny Rocco",
             "contractYear" : "0"
           },
-          "name" : "Delware",
+          "name" : "Delaware",
           "state" : "Delaware"
         },
         {
