@@ -2889,7 +2889,7 @@
         },
         {
           "abbreviation" : "WM",
-          "prestige" : "57",
+          "prestige" : "55",
           "hexColor" : "#115740",
           "rival" : "JMU",
           "headCoach" : {
@@ -2913,7 +2913,7 @@
         },
         {
           "abbreviation" : "HAMP",
-          "prestige" : "53",
+          "prestige" : "56",
           "hexColor" : "#003591",
           "rival" : "RHO",
           "headCoach" : {
@@ -2961,7 +2961,7 @@
         }
       ],
       "confFullName" : "Colonial Athletic",
-      "confPrestige" : "60",
+      "confPrestige" : "57",
       "confName" : "CAA"
     }
   ],
