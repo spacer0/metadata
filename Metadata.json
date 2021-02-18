@@ -1583,7 +1583,7 @@
         {
           "abbreviation" : "WYO",
           "prestige" : "63",
-          "hexColor" : "#492F24",
+          "hexColor" : "#5D423A",
           "rival" : "CSU",
           "headCoach" : {
             "contractLength" : "6",
@@ -1830,7 +1830,7 @@
         {
           "abbreviation" : "AKSU",
           "prestige" : "51",
-          "hexColor" : "#CCO92F",
+          "hexColor" : "#C6092E",
           "rival" : "UL",
           "headCoach" : {
             "contractLength" : "5",
@@ -1950,7 +1950,7 @@
         {
           "abbreviation" : "ULM",
           "prestige" : "55",
-          "hexColor" : "#840029",
+          "hexColor" : "#850024",
           "rival" : "TSU",
           "headCoach" : {
             "contractLength" : "5",
@@ -2029,7 +2029,7 @@
         {
           "abbreviation" : "FAU",
           "prestige" : "62",
-          "hexColor" : "#CC0000",
+          "hexColor" : "#002D57",
           "rival" : "FIU",
           "headCoach" : {
             "contractLength" : "3",
@@ -2372,7 +2372,7 @@
         {
           "abbreviation" : "WMU",
           "prestige" : "65",
-          "hexColor" : "#6C4023",
+          "hexColor" : "#A07365",
           "rival" : "NIU",
           "headCoach" : {
             "contractLength" : "2",
@@ -2444,7 +2444,7 @@
         {
           "abbreviation" : "KENT",
           "prestige" : "60",
-          "hexColor" : "#0E1112",
+          "hexColor" : "#B0A08C",
           "rival" : "AKR",
           "headCoach" : {
             "contractLength" : "3",
@@ -2866,21 +2866,21 @@
         {
           "abbreviation" : "RHO",
           "prestige" : "45",
-          "hexColor" : "#002147",
+          "hexColor" : "#68ABE8",
           "rival" : "HAMP",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
             "age" : "60",
-            "ratOff" : "55",
-            "cumulativePrestige" : "-8",
-            "ratDef" : "59",
+            "ratOff" : "58",
+            "cumulativePrestige" : "0",
+            "ratDef" : "63",
             "homeState" : "New York",
             "ratPot" : "66",
             "ratTalent" : "60",
             "baselinePrestige" : "60",
             "ratDiscipline" : "75",
-            "ratOvr" : "58",
+            "ratOvr" : "60",
             "name" : "Jim Fleming",
             "contractYear" : "0"
           },
